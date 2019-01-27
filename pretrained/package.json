@@ -1,0 +1,11 @@
+{
+  "name": "pretrained",
+  "version": "1.0.3",
+  "description": "Pretrained machine learning models in npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Birger Moëll",
+  "license": "ISC"
+}
